@@ -1,0 +1,2 @@
+Don't ship the Friday 4:59 p.m. "quick fix" without a rollback plan.
+That one deploy took the whole service down for the weekend, and ever since, nothing ships on a Friday.
